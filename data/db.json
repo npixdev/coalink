@@ -1,0 +1,65 @@
+{
+  "profiles": {
+    "coach_alex": {
+      "username": "coach_alex",
+      "displayName": "Coach Alex",
+      "bio": "Helping you reach your fitness goals. 💪 | Certified Trainer",
+      "avatarUrl": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+      "theme": {
+        "backgroundColor": "#f8fafc",
+        "buttonColor": "#0f172a",
+        "buttonTextColor": "#ffffff",
+        "textColor": "#0f172a",
+        "font": "sans",
+        "layout": "stack"
+      },
+      "links": [
+        {
+          "id": "1",
+          "type": "header",
+          "title": "My Offerings",
+          "active": true
+        },
+        {
+          "id": "2",
+          "type": "link",
+          "title": "1:1 Online Coaching",
+          "url": "https://example.com/coaching",
+          "active": true
+        },
+        {
+          "id": "3",
+          "type": "link",
+          "title": "Get my Free Workout Plan",
+          "url": "https://example.com/freebie",
+          "active": true
+        },
+        {
+          "id": "4",
+          "type": "video",
+          "title": "Welcome to my page!",
+          "url": "https://www.youtube.com/",
+          "active": true
+        },
+        {
+          "id": "5",
+          "type": "link",
+          "title": "Book a Consultation",
+          "url": "#booking",
+          "active": true
+        }
+      ]
+    }
+  },
+  "users": {
+    "fesf@gmail.com": {
+      "id": "07d39a7b-08f1-464c-a69e-44aa17b62e0c",
+      "username": "fesfsfe",
+      "email": "fesf@gmail.com",
+      "passwordHash": "$2b$10$hUe3oX6i5o3sDoI3ySN2TOymcIxDgWBFUHUVHIFniLaBlze.952je",
+      "isPro": false,
+      "createdAt": "2026-01-11T22:26:37.251Z"
+    }
+  },
+  "analytics": []
+}
