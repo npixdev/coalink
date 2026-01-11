@@ -51,15 +51,5 @@
       ]
     }
   },
-  "users": {
-    "nxa.chau@gmail.com": {
-      "id": "56fcb351-5c16-4263-96ca-e064bbd0a52c",
-      "username": "Noapix",
-      "email": "nxa.chau@gmail.com",
-      "passwordHash": "$2b$10$mmyHOZQfgmyh4DSy4GPphO8hlwYbbutcm55l8FUf2l.Hz8bBMNVOm",
-      "isPro": false,
-      "createdAt": "2026-01-11T22:16:51.830Z"
-    }
-  },
   "analytics": []
 }

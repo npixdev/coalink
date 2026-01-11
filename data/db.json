@@ -59,6 +59,30 @@
       "passwordHash": "$2b$10$hUe3oX6i5o3sDoI3ySN2TOymcIxDgWBFUHUVHIFniLaBlze.952je",
       "isPro": false,
       "createdAt": "2026-01-11T22:26:37.251Z"
+    },
+    "desf@gamaga": {
+      "id": "2018f744-c19a-49b5-b4a6-5a6c3500e87e",
+      "username": "dzqdqz@gami",
+      "email": "desf@gamaga",
+      "passwordHash": "$2b$10$gnNfO.6oxIVD7tf/McqFl.7V1vwz8Ml9d9Zo4zlSPkJo9zZ4AeiLG",
+      "isPro": false,
+      "createdAt": "2026-01-11T22:41:51.063Z"
+    },
+    "fesfs@gmail.com": {
+      "id": "154cd2e3-1478-4630-aa05-dbcdddcba65f",
+      "username": "fsefse",
+      "email": "fesfs@gmail.com",
+      "passwordHash": "$2b$10$YWU/LvVjLQ8C2yR5jnC67uQCcoNv4t0Pp3VXGfKFg7FOV7.42m7iu",
+      "isPro": false,
+      "createdAt": "2026-01-11T22:42:46.770Z"
+    },
+    "caca@gmail.com": {
+      "id": "72471193-6bbb-4fbe-959e-33e578b48545",
+      "username": "caca",
+      "email": "caca@gmail.com",
+      "passwordHash": "$2b$10$wPk7aAcq5ts5KomWTUilVexYQrXZGAGOUDJRnpfalA6GkOyHTVr62",
+      "isPro": false,
+      "createdAt": "2026-01-11T22:43:05.884Z"
     }
   },
   "analytics": []
