@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { useProfile, LinkItem, LinkType } from '@/context/ProfileContext';
+import { useProfile } from '@/context/ProfileContext';
+import { LinkItem, LinkType } from '@/types';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent } from '@/components/ui/card';
